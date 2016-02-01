@@ -1,0 +1,9 @@
+c:\users\sbb-admin\documents\visual studio 2015\Projects\MultipleSensorClassLibrary\MultipleSensorClassLibrary\obj\Debug\MultipleSensorClassLibrary.Resources.resources
+c:\users\sbb-admin\documents\visual studio 2015\Projects\MultipleSensorClassLibrary\MultipleSensorClassLibrary\obj\Debug\MultipleSensorClassLibrary.vbproj.GenerateResource.Cache
+c:\users\sbb-admin\documents\visual studio 2015\Projects\MultipleSensorClassLibrary\MultipleSensorClassLibrary\obj\Debug\MultipleSensorClassLibrary.xml
+c:\users\sbb-admin\documents\visual studio 2015\Projects\MultipleSensorClassLibrary\MultipleSensorClassLibrary\bin\Debug\MultipleSensorClassLibrary.dll
+c:\users\sbb-admin\documents\visual studio 2015\Projects\MultipleSensorClassLibrary\MultipleSensorClassLibrary\bin\Debug\MultipleSensorClassLibrary.pdb
+c:\users\sbb-admin\documents\visual studio 2015\Projects\MultipleSensorClassLibrary\MultipleSensorClassLibrary\bin\Debug\MultipleSensorClassLibrary.xml
+c:\users\sbb-admin\documents\visual studio 2015\Projects\MultipleSensorClassLibrary\MultipleSensorClassLibrary\obj\Debug\MultipleSensorClassLibrary.dll
+c:\users\sbb-admin\documents\visual studio 2015\Projects\MultipleSensorClassLibrary\MultipleSensorClassLibrary\obj\Debug\MultipleSensorClassLibrary.pdb
+C:\Users\SBB-ADMIN\Documents\Visual Studio 2015\Projects\MultipleSensorClassLibrary\MultipleSensorClassLibrary\obj\Debug\MultipleSensorClassLibrary.vbprojResolveAssemblyReference.cache
