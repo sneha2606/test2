@@ -1,0 +1,69 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MultipleSensorClassLibrary
+</name>
+</assembly>
+<members>
+<member name="P:MultipleSensorClassLibrary.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:MultipleSensorClassLibrary.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:MultipleSensorClassLibrary.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:MultipleSensorClassLibrary.KonicaErrorException">
+	<summary>
+ This exception occurs in case of any error in data received from Konica device
+ </summary>
+	<remarks></remarks>
+</member><member name="M:MultipleSensorClassLibrary.MultipleSensor.serialPortConfigurations(System.String,System.IO.Ports.Parity,System.Int32,System.Int32,System.Int32)">
+	<summary>
+ 'This function is used to set the Serial port configurations for Konica Minolta Device
+ </summary>
+	<param name="comPort"></param>
+	<param name="parity"></param>
+	<param name="baudRate"></param>
+	<param name="stopBits"></param>
+	<param name="dataBits"></param>
+	<remarks></remarks>
+</member><member name="M:MultipleSensorClassLibrary.MultipleSensor.closeSerialPort">
+	<summary>
+ 'This function is to close the serial port if it is open
+ </summary>
+	<remarks></remarks>
+</member><member name="M:MultipleSensorClassLibrary.MultipleSensor.StartReadingData(System.Int32)">
+	<summary>
+ This function is used to read data from the Konica Minolta device - CL 200A
+ </summary>
+	<param name="count">If the value of count is 0 , it indicates that the data is being read for the first time from the device and program is going to send all commands from the PC mode command</param>
+</member><member name="M:MultipleSensorClassLibrary.MultipleSensor.CmdSendRecv(System.Int32,System.Int32)">
+	<summary>
+ 'This function is used to send and receive commands from Konica Minolta device
+ </summary>
+	<param name="FlgTimeoutCheck"></param>
+	<param name="mode">Mode is used to indicate for different operations</param>
+	<remarks></remarks>
+</member><member name="M:MultipleSensorClassLibrary.MultipleSensor.BCC_Append(System.String)">
+	<summary>
+ This function is used to perform Block Character Check for commands received from the Konica Minolta device
+ </summary>
+	<param name="Command"></param>
+</member><member name="M:MultipleSensorClassLibrary.MultipleSensor.ErrCheck">
+	<summary>
+ This function is used to check if there are any errors in the command received from the Konica Minolta device
+ </summary>
+</member><member name="T:MultipleSensorClassLibrary.MultipleSensor">
+	<summary>
+ This class is used to read data from 3 sensors : Sensor 0, Sensor 1 and Sensor 2 connected to the Konica Minolta device
+ </summary>
+</member>
+</members>
+</doc>

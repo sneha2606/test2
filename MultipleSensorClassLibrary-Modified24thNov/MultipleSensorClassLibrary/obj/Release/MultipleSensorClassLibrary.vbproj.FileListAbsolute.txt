@@ -1,0 +1,44 @@
+F:\14April2016\April 8\MultipleSensorClassLibrary\MultipleSensorClassLibrary\bin\Release\MultipleSensorClassLibrary.dll
+F:\14April2016\April 8\MultipleSensorClassLibrary\MultipleSensorClassLibrary\bin\Release\MultipleSensorClassLibrary.pdb
+F:\14April2016\April 8\MultipleSensorClassLibrary\MultipleSensorClassLibrary\bin\Release\MultipleSensorClassLibrary.xml
+F:\14April2016\April 8\MultipleSensorClassLibrary\MultipleSensorClassLibrary\obj\Release\MultipleSensorClassLibrary.Resources.resources
+F:\14April2016\April 8\MultipleSensorClassLibrary\MultipleSensorClassLibrary\obj\Release\MultipleSensorClassLibrary.vbproj.GenerateResource.Cache
+F:\14April2016\April 8\MultipleSensorClassLibrary\MultipleSensorClassLibrary\obj\Release\MultipleSensorClassLibrary.dll
+F:\14April2016\April 8\MultipleSensorClassLibrary\MultipleSensorClassLibrary\obj\Release\MultipleSensorClassLibrary.xml
+F:\14April2016\April 8\MultipleSensorClassLibrary\MultipleSensorClassLibrary\obj\Release\MultipleSensorClassLibrary.pdb
+G:\DLE Code Backup\14April2016\April 8\MultipleSensorClassLibrary\MultipleSensorClassLibrary\bin\Release\MultipleSensorClassLibrary.dll
+G:\DLE Code Backup\14April2016\April 8\MultipleSensorClassLibrary\MultipleSensorClassLibrary\bin\Release\MultipleSensorClassLibrary.pdb
+G:\DLE Code Backup\14April2016\April 8\MultipleSensorClassLibrary\MultipleSensorClassLibrary\bin\Release\MultipleSensorClassLibrary.xml
+G:\DLE Code Backup\14April2016\April 8\MultipleSensorClassLibrary\MultipleSensorClassLibrary\obj\Release\MultipleSensorClassLibrary.Resources.resources
+G:\DLE Code Backup\14April2016\April 8\MultipleSensorClassLibrary\MultipleSensorClassLibrary\obj\Release\MultipleSensorClassLibrary.vbproj.GenerateResource.Cache
+G:\DLE Code Backup\14April2016\April 8\MultipleSensorClassLibrary\MultipleSensorClassLibrary\obj\Release\MultipleSensorClassLibrary.dll
+G:\DLE Code Backup\14April2016\April 8\MultipleSensorClassLibrary\MultipleSensorClassLibrary\obj\Release\MultipleSensorClassLibrary.xml
+G:\DLE Code Backup\14April2016\April 8\MultipleSensorClassLibrary\MultipleSensorClassLibrary\obj\Release\MultipleSensorClassLibrary.pdb
+G:\DLE Code Backup\14April2016\April 8\MultipleSensorClassLibrary\MultipleSensorClassLibrary\obj\Release\MultipleSensorClassLibrary.vbprojResolveAssemblyReference.cache
+C:\Users\sbbsrt\Documents\DLE UPDATED CODE FROM DESKTOP -WITH LOGIN\MultipleSensorClassLibrary-Modified24thNov\MultipleSensorClassLibrary\bin\Release\MultipleSensorClassLibrary.dll
+C:\Users\sbbsrt\Documents\DLE UPDATED CODE FROM DESKTOP -WITH LOGIN\MultipleSensorClassLibrary-Modified24thNov\MultipleSensorClassLibrary\bin\Release\MultipleSensorClassLibrary.pdb
+C:\Users\sbbsrt\Documents\DLE UPDATED CODE FROM DESKTOP -WITH LOGIN\MultipleSensorClassLibrary-Modified24thNov\MultipleSensorClassLibrary\bin\Release\MultipleSensorClassLibrary.xml
+C:\Users\sbbsrt\Documents\DLE UPDATED CODE FROM DESKTOP -WITH LOGIN\MultipleSensorClassLibrary-Modified24thNov\MultipleSensorClassLibrary\obj\Release\MultipleSensorClassLibrary.Resources.resources
+C:\Users\sbbsrt\Documents\DLE UPDATED CODE FROM DESKTOP -WITH LOGIN\MultipleSensorClassLibrary-Modified24thNov\MultipleSensorClassLibrary\obj\Release\MultipleSensorClassLibrary.vbproj.GenerateResource.Cache
+C:\Users\sbbsrt\Documents\DLE UPDATED CODE FROM DESKTOP -WITH LOGIN\MultipleSensorClassLibrary-Modified24thNov\MultipleSensorClassLibrary\obj\Release\MultipleSensorClassLibrary.dll
+C:\Users\sbbsrt\Documents\DLE UPDATED CODE FROM DESKTOP -WITH LOGIN\MultipleSensorClassLibrary-Modified24thNov\MultipleSensorClassLibrary\obj\Release\MultipleSensorClassLibrary.xml
+C:\Users\sbbsrt\Documents\DLE UPDATED CODE FROM DESKTOP -WITH LOGIN\MultipleSensorClassLibrary-Modified24thNov\MultipleSensorClassLibrary\obj\Release\MultipleSensorClassLibrary.pdb
+C:\Users\sbbsrt\Documents\DLE UPDATED CODE FROM DESKTOP -WITH LOGIN\MultipleSensorClassLibrary-Modified24thNov\MultipleSensorClassLibrary\obj\Release\MultipleSensorClassLibrary.vbprojResolveAssemblyReference.cache
+C:\Users\sbbsrt\Videos\DLE-TrialOne\MultipleSensorClassLibrary-Modified24thNov\MultipleSensorClassLibrary\bin\Release\MultipleSensorClassLibrary.dll
+C:\Users\sbbsrt\Videos\DLE-TrialOne\MultipleSensorClassLibrary-Modified24thNov\MultipleSensorClassLibrary\bin\Release\MultipleSensorClassLibrary.pdb
+C:\Users\sbbsrt\Videos\DLE-TrialOne\MultipleSensorClassLibrary-Modified24thNov\MultipleSensorClassLibrary\bin\Release\MultipleSensorClassLibrary.xml
+C:\Users\sbbsrt\Videos\DLE-TrialOne\MultipleSensorClassLibrary-Modified24thNov\MultipleSensorClassLibrary\obj\Release\MultipleSensorClassLibrary.Resources.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne\MultipleSensorClassLibrary-Modified24thNov\MultipleSensorClassLibrary\obj\Release\MultipleSensorClassLibrary.vbproj.GenerateResource.Cache
+C:\Users\sbbsrt\Videos\DLE-TrialOne\MultipleSensorClassLibrary-Modified24thNov\MultipleSensorClassLibrary\obj\Release\MultipleSensorClassLibrary.dll
+C:\Users\sbbsrt\Videos\DLE-TrialOne\MultipleSensorClassLibrary-Modified24thNov\MultipleSensorClassLibrary\obj\Release\MultipleSensorClassLibrary.xml
+C:\Users\sbbsrt\Videos\DLE-TrialOne\MultipleSensorClassLibrary-Modified24thNov\MultipleSensorClassLibrary\obj\Release\MultipleSensorClassLibrary.pdb
+C:\Users\sbbsrt\Videos\DLE-TrialOne\MultipleSensorClassLibrary-Modified24thNov\MultipleSensorClassLibrary\obj\Release\MultipleSensorClassLibrary.vbprojResolveAssemblyReference.cache
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\MultipleSensorClassLibrary-Modified24thNov\MultipleSensorClassLibrary\bin\Release\MultipleSensorClassLibrary.dll
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\MultipleSensorClassLibrary-Modified24thNov\MultipleSensorClassLibrary\bin\Release\MultipleSensorClassLibrary.pdb
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\MultipleSensorClassLibrary-Modified24thNov\MultipleSensorClassLibrary\bin\Release\MultipleSensorClassLibrary.xml
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\MultipleSensorClassLibrary-Modified24thNov\MultipleSensorClassLibrary\obj\Release\MultipleSensorClassLibrary.vbprojResolveAssemblyReference.cache
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\MultipleSensorClassLibrary-Modified24thNov\MultipleSensorClassLibrary\obj\Release\MultipleSensorClassLibrary.Resources.resources
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\MultipleSensorClassLibrary-Modified24thNov\MultipleSensorClassLibrary\obj\Release\MultipleSensorClassLibrary.vbproj.GenerateResource.Cache
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\MultipleSensorClassLibrary-Modified24thNov\MultipleSensorClassLibrary\obj\Release\MultipleSensorClassLibrary.dll
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\MultipleSensorClassLibrary-Modified24thNov\MultipleSensorClassLibrary\obj\Release\MultipleSensorClassLibrary.xml
+C:\Users\sbbsrt\Videos\DLE-TrialOne-UpdatedWithUserComments-WithNewMSI\MultipleSensorClassLibrary-Modified24thNov\MultipleSensorClassLibrary\obj\Release\MultipleSensorClassLibrary.pdb
